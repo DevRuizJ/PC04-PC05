@@ -1,0 +1,6 @@
+@NASA_APOD.API_HostAddress = http://localhost:5089
+
+GET {{NASA_APOD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
